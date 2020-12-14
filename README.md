@@ -70,6 +70,13 @@ yarn install
 yarn start
 ```
 
+# Agradecimento
+https://github.com/acenelio
+
+https://github.com/washingtonsoares
+
+Da DevSuperior.
+
 # Autor
 
 Luis Gustavo Victório
